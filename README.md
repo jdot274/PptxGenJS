@@ -83,14 +83,6 @@ Visit the demos page to create a simple presentation to see how easy it is to us
 
 # Installation
 
-### Installing via Smithery
-
-To install PptxGenJS for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@jdot274/pptxgenjs):
-
-```bash
-npx -y @smithery/cli install @jdot274/pptxgenjs --client claude
-```
-
 ## Npm
 
 [PptxGenJS NPM Home](https://www.npmjs.com/package/pptxgenjs)
